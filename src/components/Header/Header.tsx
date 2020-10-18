@@ -8,10 +8,10 @@ const Header = () : ReactElement => {
         UTS Teknologi Sistem Terintegrasi II3160
       </div>
       <div className={styles.title}>
-        Muhammad Xavier Rafifsyah Prasetyo
+        Tafia Alifianty Dinita Putri
       </div>
       <div className={styles.title}>
-        18218040
+        18218038
       </div>
     </div>
   )
